@@ -2,6 +2,11 @@
 
 [Задание](task/README.md)
 
+[Решение в Jypiter Notebook](./solution.ipynb)
+<a target="_blank" href="https://colab.research.google.com/github/danyarmarkin/llm-review-classification/solution.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 ## Этапы решения
 
 1. **Автоматическая разметка данных**: Использована модель [Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct) с 4-битным квантованием для разметки 1818 отзывов из тренировочных данных.
