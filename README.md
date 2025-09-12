@@ -20,8 +20,12 @@
 - Для классификации: [cointegrated/LaBSE-en-ru](https://huggingface.co/cointegrated/LaBSE-en-ru) + LoRA
 
 ## Результаты
-- Файл с предсказаниями: [submission.csv](submission.csv)
-- Обученная модель: `best_model/`
-- Маппинг категорий: `label_mapping.json`
+- Размеченный датасет: [labeled_dataset.csv](./labeled_dataset.csv)
+- Сгенерированный датасет: [enriched_training_data.csv](./enriched_training_data.csv)
+- Файл с предсказаниями: [submission.csv](./submission.csv)
+- Обученная модель: [best_model](./best_model)
+- Маппинг категорий: [label_mapping.json](./label_mapping.json)
 
 ## Распределение времени предсказания на тестовых данных
+
+[!](./imgs/model-time.png)
