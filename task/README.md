@@ -12,7 +12,7 @@
 
 ## Данные и пререквизиты
 
-* https://data.tinkoff.ru/s/QKAc6RXwKRck6Bs пароль `,(T,_'u$V5`
+* https://data.tinkoff.ru/s/QKAc6RXwKRck6Bs
 * train и test датасеты — неразмеченные тексты отзывов
 * Список категорий товаров, на которые необходимо классифицировать отзывы
 

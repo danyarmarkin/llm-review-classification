@@ -17,7 +17,7 @@
 
 ## Используемые модели:
 - Для разметки: [Qwen2-7B-Instruct](https://huggingface.co/Qwen/Qwen2-7B-Instruct) (4-bit)
-- Для классификации: [cointegrated/LaBSE-en-ru](https://huggingface.co/cointegrated/LaBSE-en-ru) + LoRA
+- Для классификации: [cointegrated/LaBSE-en-ru](https://huggingface.co/cointegrated/LaBSE-en-ru) + `LoRA`
 
 ## Результаты
 - Размеченный датасет: [labeled_dataset.csv](./labeled_dataset.csv)
@@ -28,4 +28,4 @@
 
 ## Распределение времени предсказания на тестовых данных
 
-[!](./imgs/model-time.png)
+![](./imgs/model-time.png)
